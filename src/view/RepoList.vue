@@ -5,8 +5,8 @@
       <meta name="description" content="List of repositories on my github account" />
       <link rel="canonical" href="/repo-list" />
     </Head>
-    <div class="h-screen w-full flex justify-center items-center bg-stone-100">
-      <div class="relative h-[95%] w-[80%] p-6 rounded-lg shadow-lg bg-red-50 md:w-[90%] sm:w-[95%] sm:p-2 xs:h-[95%] ">
+    <div class="h-screen w-full flex justify-center items-center bg-gray-150">
+      <div class="relative h-[95%] w-[80%] p-6 rounded-lg shadow-lg bg-gray-50 md:w-[90%] sm:w-[95%] sm:p-2 xs:h-[95%] ">
         <div class="h-full">
           <div class="flex justify-between items-center mx-auto font-urbanist">
             <h1 class="text-3xl cursor-pointer transition-all hover:decoration-red-400 sm:text-2xl">
