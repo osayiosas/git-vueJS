@@ -67,7 +67,7 @@ import { ref } from 'vue';
 import { useQuery } from 'vue-query';
 import axios from 'axios';
 import { Head } from '@vueuse/head';
-import Search from './Search.vue';
+import Search from './SearchInput.vue';
 
 const fetchRepos = async (page) => {
   const { data } = await axios.get(`https://api.github.com/users/osayiosas/repos?page=${page}&per_page=6`);
